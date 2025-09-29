@@ -9,8 +9,7 @@ Learn how to combine data from multiple tables using different types of joins in
 schema.sql → Table creation (Customers, Orders)
 data.sql → Insert sample data
 joins.sql → Queries for INNER, LEFT, RIGHT, FULL JOIN
-answers.md → Interview question answers (10 questions given in task)
-screenshots/ → Output screenshots (optional)
+
 🛠 Tools Used
 DB Browser for SQLite
 MySQL Workbench
